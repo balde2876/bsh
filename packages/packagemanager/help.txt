@@ -1,0 +1,4 @@
+INSTALL <package> - Installs the given package
+    Requires connection to server
+UNINSTALL <package> - Uninstalls the given package
+LIST - Lists packages installed on the client & server if connected

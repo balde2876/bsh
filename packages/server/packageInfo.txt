@@ -1,0 +1,4 @@
+{
+	"type":"python",
+	"mainFile":"bshServerDaemon.py"
+}

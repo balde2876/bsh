@@ -1,0 +1,4 @@
+PKGM packagemanager
+SRV server
+SRVCFG serverconfig
+SAMPLE samplepackage

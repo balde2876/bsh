@@ -1,0 +1,5 @@
+HELP [subcommand] - Prints this help message or the help message for the given subcommand
+RUN <file name> - Runs a series of predefined shell commands
+CONN <ip address> - Connects to a server
+GET <source (on server)> <destination> - Retrieves a file from the server
+SEND <source (on client)> <destination> - Prints this help message
